@@ -1,10 +1,11 @@
-**Opa! E aí, beleza?**
+**Hey, how are you!?**
 
-Meu nome é Victor Soler, eu sou um estudante de Python, um gamer casual e um cozinheiro amador. Estou trilhando o caminho da programação em busca de um sonho.
+My name is Victor Soler, I'm a Junior Python Developer, a casual gamer and an amateur cook. I'm embarking on the path of programming in pursuit of a dream.
+I live in Guarulhos, São Paulo - Brazil. 
 
 
-- 👨🏽‍💻 Aprendiz de Código: Tentando entender esse mundo de bits e bytes enquanto aprendo Python.
-- 🎮 Gamer de Fim de Semana: Se precisar me encontrar, estarei provavelmente em algum FPS ou tentando relaxar em jogos de Simulação.
-- 🍳 Chef de Cozinha Amador: Minhas tentativas na cozinha são, na maioria das vezes, muito boas. Mas algumas não passam de comestíveis.
-- 🎓 Ex-Admin, Futuro Dev: Dos gráficos de pizza para os gráficos de código, estou transformando minha carreira em direção ao desenvolvimento de software.
-  
+- 👨🏽‍💻 Code Apprentice: Trying to understand this world of bits and bytes while learning and developing in python.
+- 🎮 Weekend Gamer: If you need to find me in the weekends, I'll probably be in some FPS or trying to relax with some simulation.
+- 🍳 Amateur Chef: My cooking attempts are mostly very good. But some are nothing more than edible.
+- 🎓 Former Admin, Future Dev: From pies charts to codes, I am transforming my career towards software development through Python.
+- 🚧 Personal Project: [Pass Pro](https://github.com/vmagueta/pass-pro), password manager in production.
