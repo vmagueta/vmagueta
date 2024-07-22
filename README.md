@@ -9,3 +9,6 @@ I live in Guarulhos, São Paulo - Brazil.
 - 🍳 Amateur Chef: My cooking attempts are mostly very good. But some are nothing more than edible.
 - 🎓 Former Admin, Future Dev: From pies charts to codes, I am transforming my career towards software development through Python.
 - 🚧 Personal Project: [Pass Pro](https://github.com/vmagueta/pass-pro), password manager in production.
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
