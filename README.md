@@ -1,9 +1,21 @@
-**Hey, how are you!?**
+# 👋 Hey, welcome to my profile!
 
-My name is Victor Soler, I'm a Junior Python Developer, a casual gamer and an amateur cook. I'm embarking on the path of programming in pursuit of a dream.
-I live in Viana do Castelo - Portugal. 
+I'm **Victor Magueta**, a **Software Engineer** currently living in **Viana do Castelo, Portugal**. Alongside coding, I enjoy gaming, cooking, and pursuing creative challenges. Here's a little more about me:
 
-- 🎓 Business Degree, Back-end developer worker: From pies charts to codes, I'm transforming my career towards software development through Python.
-- 🍳 Amateur Chef: My cooking attempts are mostly very good. But some are nothing more than edible.
-- 🎮 Weekend Gamer: If you need to find me in the weekends, I'll probably be in some FPS or trying to relax with some simulation.
-- 🚧 Most Recent Project: [Park Encantado](https://github.com/vmagueta/parkencantado), a website with an administrative area for a park located in Portugal.
+- 🎓 **Business Graduate | Software Engineer**: With a background in business, I've shifted gears into software development. I'm using **Python** to build my way into the tech world.
+  
+- 🍳 **Amateur Chef**: I love experimenting in the kitchen. Most of my dishes are a success... some are a bit too experimental, but they're always edible!
+
+- 🎮 **Weekend Gamer**: When I'm not coding, you'll likely find me immersed in **FPS** games or unwinding with some **simulation games**. I enjoy a good challenge in-game, just like I do in coding.
+
+- 🚧 **Current Project**: [**Park Encantado**](https://github.com/vmagueta/parkencantado) – A web app designed to manage and showcase a park's administrative side in Portugal. Always learning and growing through new challenges!
+
+## 💻 Skills & Technologies:
+- **Languages**: Python, SQL
+- **Frameworks & Tools**: Django, Flask, FastAPI, Docker, Git
+- **Other**: Agile methodologies, RESTful APIs, SQL databases
+
+---
+
+👀 **Fun Fact**: When I'm not coding, I’m probably looking for a new recipe to try or climbing the leaderboards in my favorite game. 😄
+
