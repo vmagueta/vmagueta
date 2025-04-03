@@ -1,6 +1,6 @@
 # 👋 Hey, welcome to my profile!
 
-I'm **Victor Magueta**, a **Software Engineer** currently living in **Viana do Castelo, Portugal**. Alongside coding, I enjoy gaming, cooking, cycling, and exploring the world of whisky. Here's a little more about me:
+I'm **Victor Magueta**, a **Software QA Engineer** at **PlatformE** currently living in **Viana do Castelo, Portugal**. Alongside coding, I enjoy gaming, cooking, cycling, and exploring the world of whisky. Here's a little more about me:
 
 - 💻 **Software Engineer**: Combining technical expertise in Python with real-world experience, I build scalable, efficient systems while continuously learning and adapting to new challenges.  
 
