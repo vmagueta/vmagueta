@@ -8,8 +8,7 @@ I'm **Victor Magueta**, a **Software QA Engineer** at **[PlatformE](https://www.
   I'm dedicating time to the **Python** and **Tech communities** in **Portugal** and **Viana do Castelo**, attending meetups, collaborating with local developers, and engaging in knowledge-sharing initiatives to grow together and contribute to the tech ecosystem.
 
 - 🚧 **Current Projects**:  
-  - **[kamilarodrigues](https://github.com/vmagueta/kamilarodrigues)**: A website for a therapist, featuring a user area for blog posts. Built with **Python**, **Django**, **SQLite**, **Pytest**, **Selenium** and **Docker**.  
-  - **[vianalabs](https://github.com/vmagueta/vianalabs)**: The website for the web design agency I work for, built with **Python**, **Flask**, **Postgres**, **Selenium**, **Pytest** and **Docker**.  
+  - **[vms-utils](https://github.com/vmagueta/vms-utils)**: A personal, ever-growing toolbox of scripts and helper functions I use to automate and simplify day-to-day dev and QA tasks. Built primarily in **Python** and focused on real work needs.
 
 - 🥃 **Whisky Aficionado**: I have a passion for discovering and appreciating different whiskies from around the world.  
 - 🍳 **Amateur Chef**: I love experimenting in the kitchen. Most of my dishes are a success... some are a bit too experimental, but they're always edible!  
