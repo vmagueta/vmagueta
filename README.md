@@ -25,8 +25,9 @@ Outside work, I enjoy gaming, tennis, cycling, and cooking. I'm also an active o
 - **CI/CD:** GitHub Actions
 - **Operating Systems**: Linux, Windows (WSL2)
 - **Workflow & Collaboration:** Agile, Scrum, Sprint Planning, Bug Tracking, Jira
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmagueta&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+  
+![vmagueta's Stats](https://github-readme-stats.vercel.app/api?username=vmagueta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![vmagueta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmagueta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚧 Current Projects
 
