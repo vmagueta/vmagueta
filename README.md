@@ -6,7 +6,7 @@ I'm a Software / DevOps Engineer from Viana do Castelo, Portugal 🇵🇹.
 I work mostly with Python at the intersection of software development and
 infrastructure, building systems, internal tools and utilities that support
 production environments.  
-Currently, I’m expanding into Rust 🦀, on my path to becoming a Rustacean.
+Currently, I’m expanding into Rust 🦀, on my path to becoming a Rustacean. And also in automation, with Ansible.
 
 ✨ Main interests:
 
@@ -16,7 +16,7 @@ Currently, I’m expanding into Rust 🦀, on my path to becoming a Rustacean.
 - Linux 🐧
 - Developer tooling & automation
 
-Outside of tech, I enjoy gaming 🎮, tennis 🎾, cycling 🚴 and cooking 🍳.
+Outside of tech, I enjoy gaming 🎮, tennis 🎾 and cooking 🍳.
 
 🔗 You can find me here:
 
