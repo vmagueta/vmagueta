@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Victor Magueta.  
+My name is Victor Magueta Soler.  
 I'm a Mid-Level Software Engineer specializing in DevOps & Infrastructure, based in Viana do Castelo, Portugal 🇵🇹.
 
 ### 🌐 [vmagueta.run](https://vmagueta.run) - My Engineering Blog 🦀
