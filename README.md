@@ -45,5 +45,3 @@ Outside of tech, I enjoy gaming 🎮, tennis 🎾 and cooking 🍳.
 🔗 **Let's Connect:**
 - [Engineering Blog (vmagueta.run)](https://vmagueta.run)
 - [LinkedIn](https://www.linkedin.com/in/victormsoler/)
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmagueta&show_icons=true&theme=transparent)](https://github.com/vmagueta/github-readme-stats)
