@@ -22,12 +22,12 @@ I work at the intersection of software development and infrastructure, building 
 - **Ecosystem:** Published on [PyPI](https://pypi.org/project/envgate/)
 - **Quality:** Comprehensive **Doctests**, type-hinting, and automated GitHub Actions.
 - **Focus:** Infrastructure resilience and application startup integrity.
-
-### 🛰️ [Periapsis](https://github.com/vmagueta/periapsis) — Orbital Mechanics Engine
-*A high-performance computational core for satellite trajectory and orbital state propagation.*
-- **Status:** **Alpha (0.1.0)** — Published on [Crates.io](https://crates.io/crates/periapsis)
-- **Tech:** Pure Rust, zero-dependency architecture.
-- **Focus:** Numerical precision for Keplerian mechanics and state vector propagation.
+  
+### 🛰️ [periapsis](https://github.com/vmagueta/periapsis) — Orbital Mechanics Engine (WIP)
+*Rust engine for real-satellite orbit propagation from TLE data. Pre-alpha.*
+- **Status:** 🚧 v0.1.0 on [Crates.io](https://crates.io/crates/periapsis) — currently a raw TLE parser; SGP4 propagation and CLI are next (v0.2.0).
+- **Tech:** Pure Rust, MIT.
+- **Roadmap:** Core engine + CLI (v1.0.0) → TUI (v2) → REST API (v3) → GUI (v4) → Python bindings (v5)
 
 ---
 
