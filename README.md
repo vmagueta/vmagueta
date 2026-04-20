@@ -23,6 +23,12 @@ I work at the intersection of software development and infrastructure, building 
 - **Quality:** Comprehensive **Doctests**, type-hinting, and automated GitHub Actions.
 - **Focus:** Infrastructure resilience and application startup integrity.
 
+### 🛰️ [Periapsis](https://github.com/vmagueta/periapsis) — Orbital Mechanics Engine
+*A high-performance computational core for satellite trajectory and orbital state propagation.*
+- **Status:** **Alpha (0.1.0)** — Published on [Crates.io](https://crates.io/crates/periapsis)
+- **Tech:** Pure Rust, zero-dependency architecture.
+- **Focus:** Numerical precision for Keplerian mechanics and state vector propagation.
+
 ---
 
 ### ✨ Main Interests:
