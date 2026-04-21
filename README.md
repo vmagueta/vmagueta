@@ -1,7 +1,7 @@
 # Hello 👋
 
 My name is **Victor Magueta Soler**.  
-I'm a **Software Engineer** specializing in DevOps & Infrastructure with over 11 years of experience architecting business systems and global logistics operations. Currently based in Viana do Castelo, Portugal 🇵🇹.
+I'm a **Software Engineer** specializing in DevOps & Infrastructure. Currently based in Viana do Castelo, Portugal 🇵🇹.
 
 ### 🌐 [vmagueta.run](https://vmagueta.run) - My Engineering Blog
 
