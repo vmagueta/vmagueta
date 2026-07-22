@@ -5,7 +5,8 @@ I'm a **Software Engineer** specializing in Backend Systems, Architecture, DevOp
 
 ### 🌐 [vmagueta.run](https://vmagueta.run) - My Engineering Blog
 
-I work at the intersection of software development and infrastructure, building resilient systems and high-performance internal tools. Currently, I’m deep-diving into **Rust 🦀** on my path to becoming a full Rustacean.
+I work at the intersection of software development and infrastructure, building resilient systems and high-performance internal tools. Currently, working with **Python 🐍** and **Rust 🦀** in production and open source. Expanding my knowledge to Embedded Software.
+
 
 ---
 
@@ -32,16 +33,15 @@ I work at the intersection of software development and infrastructure, building 
 ---
 
 ### ✨ Main Interests:
-- **Software Engineering** 🧑‍💻 (Clean Code, Design Patterns)
+- **Software Engineering** 🧑‍💻 (Software Architecture, Clean Code, Design Patterns)
 - **DevOps & Infrastructure** ⚙️ (Kubernetes, Terraform, CI/CD)
-- **Systems Languages** (Python 🐍 and Rust 🦀)
+- **Languages** (Python 🐍 and Rust 🦀)
 - **Open Source** 🐧 (Contributor and Maintainer)
 - **Developer Tooling & Automation**
 
 ### 🛠️ Languages & Tools:
-- **Primary:** Python, Bash
-- **Expanding into:** Rust
-- **Automation:** Ansible
+- **Primary:** Python, Rust, Bash
+- **Infrastructure:** Kubernetes, Docker, Terraform, AWS, Argo CD, Ansible
 - **Also worked with:** TypeScript, JavaScript, SQL
 
 ---
